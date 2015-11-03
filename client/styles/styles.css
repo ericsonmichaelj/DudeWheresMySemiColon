@@ -78,14 +78,14 @@ footer {
 
 
 .banner {
-  margin-bottom: -126px;
   position: relative;
   left: 31px;
   width: 80%;
   max-width: 1250px;
-  top: 150px;
+  top: 120px;
   height: 80px;
-  margin: 40px auto;
+  margin: 0px auto;
+  margin-bottom: -30px;
 }
 
 .one > div {
